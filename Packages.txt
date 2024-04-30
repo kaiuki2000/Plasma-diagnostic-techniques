@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+scipy
+jupyter
+openpyxl
+pylatexenc
+ipympl
+seaborn
+uncertainties
+statsmodels
