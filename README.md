@@ -1,0 +1,2 @@
+# Plasma-diagnostic-techniques
+Contains my course work, for the "Plasma Diagnostic Techniques" course, part of my master's in engineering physics, at Instituto Superior Técnico. Includes different methods/schemes through which to probe plasmas to determine their key properties, alongside a final project on the wavelet transform, and how this could provide tangible advantanges comparatively to the usual Fourier transform, often used in these diagnostics. All of the developed codes are in Python.
